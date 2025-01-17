@@ -4,3 +4,8 @@ Que rico helado
     paso 2
     paso 3
     paso 4
+
+-receta 2
+    -paso 1
+    paso2 
+    paso 3
